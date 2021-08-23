@@ -1,7 +1,7 @@
 ---
-title: New Beginnings
+title: My First Travel Diary - Punjab
 date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: Punjab is really a nice place to stay. One of the unique thing is you can see men wearing Turbans everywhere.
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and

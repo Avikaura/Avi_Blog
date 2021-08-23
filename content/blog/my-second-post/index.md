@@ -1,9 +1,9 @@
 ---
-title: My Second Post!
+title: My Second Travel Diary - Canada
 date: "2015-05-06T23:46:37.121Z"
 ---
 
-Wow! I love blogging so much already.
+I was excited to land myself in Canada to experience unwrapped wonders in my life!
 
 Did you know that "despite its name, salted duck eggs can also be made from
 chicken eggs, though the taste and texture will be somewhat different, and the
